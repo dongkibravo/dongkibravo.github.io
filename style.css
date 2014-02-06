@@ -1,0 +1,26 @@
+body{
+	background-color:#CCFFCC;
+	font-family: Times New Roman;
+	font-style: italic;
+}
+
+h1 {
+	color: Black;
+	text-align:center;
+	font-size:40px;
+}
+
+div{
+	text-align:right;
+}
+
+h2{
+	color:black;
+	font-size:22px;
+}
+
+p{
+	color:black;
+	font-size:19px;
+}
+

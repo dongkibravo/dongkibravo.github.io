@@ -1,0 +1,14 @@
+body{
+	background-color:#2EFEF7;
+	font-family: modern;
+	font-style: italic;
+}
+
+h1{
+	font-size: 42px;
+}
+
+p{
+	font-size: 22px;
+	margin-left: 5em;
+}
